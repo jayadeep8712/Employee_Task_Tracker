@@ -13,7 +13,7 @@ Modern employee-facing task manager built with React, Vite, and Tailwind CSS. Th
 - Toast feedback, empty states, and micro-interactions for every action
 - 100% frontend using mock JSON + localStorage persistence
 
-<br>>
+<br>
 
 ## 🧰 Tech Stack
 - **React 18** + **Vite 5** (Lightning-fast dev/build tooling)
