@@ -1,0 +1,43 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "role": "Frontend Developer",
+      "tasks": [
+        { "id": 101, "title": "Build login page", "status": "Completed" },
+        { "id": 102, "title": "Implement dashboard", "status": "In Progress" },
+        { "id": 103, "title": "Fix responsive layout", "status": "Pending" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "role": "Backend Developer",
+      "tasks": [
+        { "id": 104, "title": "API integration", "status": "Pending" },
+        { "id": 105, "title": "Database optimization", "status": "In Progress" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Carol Williams",
+      "role": "UI/UX Designer",
+      "tasks": [
+        { "id": 106, "title": "Design system update", "status": "Completed" },
+        { "id": 107, "title": "User flow diagrams", "status": "Completed" },
+        { "id": 108, "title": "Prototype review", "status": "Pending" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "David Brown",
+      "role": "Full Stack Developer",
+      "tasks": [
+        { "id": 109, "title": "Code review", "status": "In Progress" },
+        { "id": 110, "title": "Deploy to staging", "status": "Pending" }
+      ]
+    }
+  ]
+}
+
