@@ -2,7 +2,7 @@
 
 Modern employee-facing task manager built with React, Vite, and Tailwind CSS. The UI ships with dashboard analytics, rich task CRUD, search + sort, toast notifications, and dark‑mode theming while persisting everything to localStorage (bonus requirement).
 
----
+<br>
 
 ## 🌟 Highlights
 - Dashboard cards with completion rate progress and KPI chips
@@ -13,7 +13,7 @@ Modern employee-facing task manager built with React, Vite, and Tailwind CSS. Th
 - Toast feedback, empty states, and micro-interactions for every action
 - 100% frontend using mock JSON + localStorage persistence
 
----
+<br>>
 
 ## 🧰 Tech Stack
 - **React 18** + **Vite 5** (Lightning-fast dev/build tooling)
@@ -21,7 +21,7 @@ Modern employee-facing task manager built with React, Vite, and Tailwind CSS. Th
 - **Boxicons** (Iconography)
 - **localStorage** (Bonus persistence requirement)
 
----
+<br>
 
 ## ✅ Verification
 Project was installed and compiled locally to confirm all workflows:
@@ -31,11 +31,11 @@ npm run build
 ```
 `npm run build` (Vite) completed successfully on Nov 27, 2025. See `dist/` for output. Two moderate `npm audit` advisories remain (tooling deps); no runtime packages are affected.
 
----
+<br>
 
 ## 🚀 Getting Started
 ```bash
-git clone <repo-url>
+git clone https://github.com/jayadeep8712/Employee_Task_Tracker.git
 cd employee-task-tracker
 npm install
 
@@ -49,7 +49,7 @@ npm run preview
 
 > Node.js 16+ (or 18+) recommended. Tailwind’s JIT and Vite HMR expect modern browsers.
 
----
+<br>
 
 ## 📂 Project Structure
 ```
@@ -73,7 +73,7 @@ src/
 └── index.css                  # Global + dark mode styles
 ```
 
----
+<br>
 
 ## 💡 Feature Walkthrough
 
@@ -104,7 +104,7 @@ src/
 - Every add/edit/delete/status change writes to `localStorage`
 - Dark mode preference stored under `darkMode`
 
----
+<br>
 
 ## 🧪 Manual Test Plan (Executed)
 | Flow | Result |
@@ -125,17 +125,17 @@ src/
 4. **No attachments/comments** (documented in roadmap).
 5. **Accessibility**: Keyboard focus and ARIA basics included; full WCAG AA pending.
 
----
+<br>
 
 ## 🔮 Roadmap
 Future enhancements live in `ENHANCEMENT_ROADMAP.md` (task comments, exports, multi-assign, drag & drop, etc.). `PRODUCTION_FEATURES.md` captures what is already done.
 
----
+<br>
 
 ## 📄 License
 Created for the Frontend Web Development assignment. Feel free to adapt or extend for educational or internal use.
 
----
+<br>
 
 Need help extending this into a full-stack product? Check `ENHANCEMENT_ROADMAP.md` or open an issue. Happy building! 🚀
 
