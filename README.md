@@ -1,6 +1,17 @@
+<div style="align-center">
+
 # Employee Task Tracker
 
 Modern employee-facing task manager built with React, Vite, and Tailwind CSS. The UI ships with dashboard analytics, rich task CRUD, search + sort, toast notifications, and dark‑mode theming while persisting everything to localStorage (bonus requirement).
+
+<table>
+  <tr>
+    <td><img src="/assets/light.png" width="400"></td>
+    <td><img src="/assets/dark.png" width="400"></td>
+  </tr>
+</table>
+
+</div>
 
 <br>
 
@@ -116,7 +127,7 @@ src/
 | Search/filter/sort combos | ✅ |
 | Dark mode toggle persistence | ✅ |
 
----
+<br>
 
 ## 📋 Assumptions & Limitations
 1. **Single-user/local**: No authentication or multi-tenant separation.
